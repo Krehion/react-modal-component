@@ -1,0 +1,15 @@
+{
+	"name": "react-modal-component",
+	"version": "1.0.0",
+	"description": "A lightweight, customizable modal component for React, using React Portals.",
+	"keywords": [
+		"modal"
+	],
+	"license": "MIT",
+	"author": "Krehion",
+	"type": "commonjs",
+	"main": "rollup.config.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
