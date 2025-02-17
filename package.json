@@ -1,5 +1,5 @@
 {
-	"name": "react-modal-component",
+	"name": "react-amazing-modal-component",
 	"version": "1.0.0",
 	"description": "A lightweight, customizable modal component for React, using React Portals.",
 	"keywords": [
@@ -8,7 +8,9 @@
 	"license": "MIT",
 	"author": "Krehion",
 	"type": "commonjs",
-	"main": "rollup.config.js",
+	"main": "src/Modal.js",
+	"test": "",
+	"git repository": "https://github.com/Krehion/react-modal-component",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	}
