@@ -7,13 +7,7 @@ A lightweight, customizable modal component for React, using React Portals.
 You can install this package via npm:
 
 ```sh
-npm install react-modal-component
-```
-
-Or with yarn:
-
-```sh
-yarn add react-modal-component
+npm install react-amazing-modal-component
 ```
 
 ## Usage
@@ -22,8 +16,8 @@ yarn add react-modal-component
 
 ```jsx
 import React, { useState } from "react";
-import Modal from "react-modal-component";
-import "react-modal-component/dist/modal.css"; // Import default styles (optional)
+import Modal from "react-amazing-modal-component";
+import "react-amazing-modal-component/dist/modal.css"; // Import default styles (optional)
 
 export default function App() {
 	const [isOpen, setIsOpen] = useState(false);
