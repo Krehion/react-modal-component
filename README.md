@@ -2,6 +2,15 @@
 
 A lightweight, customizable modal component for React, using React Portals.
 
+## Requirements
+
+This package has been developed and tested with the following versions:
+
+- Node.js: 23.8.0
+- React: 19.0.0
+
+It is recommended to use these versions for optimal compatibility.
+
 ## Installation
 
 You can install this package via npm:
